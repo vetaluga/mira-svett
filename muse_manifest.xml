@@ -1,0 +1,142 @@
+<manifest alg="2" build="1176" opt="false" iceEnabled="true" iceMarkupVersion="2" ftp_hostname="ftp://server63.hosting.reg.ru" ftp_rootfolder="/www/ng-primula.ru" exportTarget="FTP" resolutions="1x" timestamp="1444830061123">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_______-a.css" crc="100646317" ref="index:thank-you"/>
+    <file name="index.css" crc="4194262410" ref="index"/>
+    <file name="iefonts_index.css" crc="109006976" ref="index"/>
+    <file name="thank-you.css" crc="3835707234" ref="thank-you"/>
+    <file name="iefonts_thank-you.css" crc="4046679630" ref="thank-you"/>
+  </folder>
+  <folder name="fonts">
+    <file name="opensanslight.woff" crc="3784071947"/>
+    <file name="opensanslight.eot" crc="3885386588"/>
+    <file name="myriadprobold.woff" crc="4251696467"/>
+    <file name="myriadprobold.eot" crc="3870324764"/>
+    <file name="pfagorasanspro-blackital.woff" crc="4273303830"/>
+    <file name="pfagorasanspro-blackital.eot" crc="33079933"/>
+    <file name="pfagorasanspro-blackital.svg" crc="357171975"/>
+    <file name="myriadprosemibold.woff" crc="3960523224"/>
+    <file name="myriadprosemibold.eot" crc="113810958"/>
+    <file name="myriadproregular.woff" crc="4204364508"/>
+    <file name="myriadproregular.eot" crc="442023682"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:thank-you"/>
+    <file name="museutils.js" crc="3793461109" ref="index:thank-you"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="index:thank-you"/>
+    <file name="jquery.scrolleffects.js" crc="172766474" ref="index:thank-you"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index:thank-you"/>
+    <file name="jquery.musemenu.js" crc="492415246" ref="index:thank-you"/>
+    <file name="pie.js" crc="3827607177" ref="index:thank-you"/>
+    <file name="webpro.js" crc="4263367560" ref="index:thank-you"/>
+    <file name="form_check.php" crc="428372696" ref="index:thank-you"/>
+    <file name="form_throttle.php" crc="419817817" ref="index:thank-you"/>
+    <file name="form_process.php" crc="3787855599" ref="index:thank-you"/>
+    <file name="form-u6487.php" crc="4223524705" ref="index:thank-you"/>
+    <file name="musewpslideshow.js" crc="126372691" ref="index:thank-you"/>
+    <file name="jquery.museoverlay.js" crc="3946374898" ref="index:thank-you"/>
+    <file name="touchswipe.js" crc="3796284560" ref="index:thank-you"/>
+    <file name="form-u12640.php" crc="85739182" ref="index"/>
+    <file name="form-u12706.php" crc="4236979972" ref="index"/>
+    <file name="form-u13152.php" crc="4108584552" ref="index"/>
+    <file name="form-u13550.php" crc="178369821" ref="index"/>
+    <file name="form-u14099.php" crc="4240567900" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:thank-you"/>
+  </folder>
+  <folder name="images">
+    <file name="fon header.png" crc="4099436338" ref="index"/>
+    <file name="logo.png" crc="183915646" ref="index:thank-you"/>
+    <file name="pop.jpg" crc="3784996540" ref="index:thank-you"/>
+    <file name="u6492-17.png" crc="4083193083" ref="index:thank-you"/>
+    <file name="u6492-17-r.png" crc="242323585" ref="index:thank-you"/>
+    <file name="u6492-17-m.png" crc="242323585" ref="index:thank-you"/>
+    <file name="u6492-17-fs.png" crc="242323585" ref="index:thank-you"/>
+    <file name="fon shapka.jpg" crc="62013286" ref="index:thank-you"/>
+    <file name="line shapka.png" crc="3908331023" ref="index"/>
+    <file name="arrow 1.png" crc="4021166969" ref="index"/>
+    <file name="check.png" crc="4288292480" ref="index"/>
+    <file name="u12642-17.png" crc="474271496" ref="index"/>
+    <file name="u12642-17-r.png" crc="23454882" ref="index"/>
+    <file name="u12642-17-m.png" crc="23454882" ref="index"/>
+    <file name="u12642-17-fs.png" crc="23454882" ref="index"/>
+    <file name="fon uslugi.jpg" crc="411359108" ref="index"/>
+    <file name="uslugi.png" crc="4207821459" ref="index"/>
+    <file name="u12712-17.png" crc="4090971627" ref="index"/>
+    <file name="u12712-17-r.png" crc="3941183314" ref="index"/>
+    <file name="u12712-17-m.png" crc="3941183314" ref="index"/>
+    <file name="u12712-17-fs.png" crc="3941183314" ref="index"/>
+    <file name="work name.jpg" crc="4258163177" ref="index"/>
+    <file name="01 vazuza 1.jpg" crc="3848709174" ref="index"/>
+    <file name="01 vazuza 2.jpg" crc="3913456036" ref="index"/>
+    <file name="01 vazuza 3.jpg" crc="3841107479" ref="index"/>
+    <file name="strelka_left.png" crc="174848775" ref="index"/>
+    <file name="strelka_right.png" crc="3895959627" ref="index"/>
+    <file name="02 mosenergo 1.jpg" crc="4075534034" ref="index"/>
+    <file name="02 mosenergo 2.jpg" crc="135356671" ref="index"/>
+    <file name="02 mosenergo 3.jpg" crc="3989627920" ref="index"/>
+    <file name="03 chaihana 1.jpg" crc="482052268" ref="index"/>
+    <file name="03 chaihana 2.jpg" crc="88503123" ref="index"/>
+    <file name="03 chaihana 3.jpg" crc="4240779921" ref="index"/>
+    <file name="04 niyama 1.jpg" crc="3778314274" ref="index"/>
+    <file name="04 niyama 2.jpg" crc="3763281593" ref="index"/>
+    <file name="04 niyama 3.jpg" crc="4191037245" ref="index"/>
+    <file name="06 galicino 1.jpg" crc="3781044596" ref="index"/>
+    <file name="06 galicino 2.jpg" crc="425168510" ref="index"/>
+    <file name="06 galicino 3.jpg" crc="372342621" ref="index"/>
+    <file name="06 sosnoviy bor 1.jpg" crc="364437274" ref="index"/>
+    <file name="06 sosnoviy bor 2.jpg" crc="4037970904" ref="index"/>
+    <file name="06 sosnoviy bor 3.jpg" crc="315961013" ref="index"/>
+    <file name="07 semenkovo 3.jpg" crc="422725468" ref="index"/>
+    <file name="07 semenkovo 2.jpg" crc="3805118672" ref="index"/>
+    <file name="07 semenkovo 1.jpg" crc="4218169711" ref="index"/>
+    <file name="fon price.jpg" crc="4082651137" ref="index"/>
+    <file name="price fon.jpg" crc="203600029" ref="index"/>
+    <file name="u13153-17.png" crc="443022005" ref="index"/>
+    <file name="u13153-17-r.png" crc="410286072" ref="index"/>
+    <file name="u13153-17-m.png" crc="410286072" ref="index"/>
+    <file name="u13153-17-fs.png" crc="410286072" ref="index"/>
+    <file name="08 bortplaza.jpg" crc="1322935" ref="index"/>
+    <file name="09 veshki.jpg" crc="272489309" ref="index"/>
+    <file name="10 ilinka.jpg" crc="3883252214" ref="index"/>
+    <file name="11 monolit.jpg" crc="84727822" ref="index"/>
+    <file name="12 tolstoff.jpg" crc="94925159" ref="index"/>
+    <file name="13 nikolskie ozera.jpg" crc="471665334" ref="index"/>
+    <file name="14 nahabino.jpg" crc="3874716565" ref="index"/>
+    <file name="15 borovsk.jpg" crc="4071718414" ref="index"/>
+    <file name="16 istra.jpg" crc="4100437020" ref="index"/>
+    <file name="17 golikovo.jpg" crc="206094003" ref="index"/>
+    <file name="18 veshki 2.jpg" crc="4050822455" ref="index"/>
+    <file name="19 chistie prudi.jpg" crc="55370307" ref="index"/>
+    <file name="fon video.jpg" crc="4143244523" ref="index"/>
+    <file name="u13562-17.png" crc="3909606262" ref="index"/>
+    <file name="u13562-17-r.png" crc="68239075" ref="index"/>
+    <file name="u13562-17-m.png" crc="68239075" ref="index"/>
+    <file name="u13562-17-fs.png" crc="68239075" ref="index"/>
+    <file name="logo partners.jpg" crc="284264138" ref="index"/>
+    <file name="fon otzivi.jpg" crc="318086108" ref="index"/>
+    <file name="otziv 1.jpg" crc="3882749319" ref="index"/>
+    <file name="otziv 2.jpg" crc="3886570130" ref="index"/>
+    <file name="otziv 3.jpg" crc="3872358394" ref="index"/>
+    <file name="otziv 4.jpg" crc="3874868934" ref="index"/>
+    <file name="otziv l.png" crc="389921247" ref="index"/>
+    <file name="otziv r.png" crc="4003802896" ref="index"/>
+    <file name="pismo 3.jpg" crc="4052895127" ref="index"/>
+    <file name="sertificat_big 3.jpg" crc="210978105" ref="index"/>
+    <file name="pismo 4.jpg" crc="106318137" ref="index"/>
+    <file name="sertificat_big 4.jpg" crc="3810224235" ref="index"/>
+    <file name="pismo 2.jpg" crc="273131424" ref="index"/>
+    <file name="sertificat_big 2.jpg" crc="409266428" ref="index"/>
+    <file name="pismo 1.jpg" crc="4139158674" ref="index"/>
+    <file name="sertificat_big 1.jpg" crc="462558940" ref="index"/>
+    <file name="fon podval.jpg" crc="260351032" ref="index"/>
+    <file name="u14110-17.png" crc="4083193083" ref="index"/>
+    <file name="u14110-17-r.png" crc="242323585" ref="index"/>
+    <file name="u14110-17-m.png" crc="242323585" ref="index"/>
+    <file name="u14110-17-fs.png" crc="242323585" ref="index"/>
+    <file name="logo2.png" crc="370640817" ref="index:thank-you"/>
+    <file name="pop 2.jpg" crc="93859681" ref="thank-you"/>
+    <file name="ok.png" crc="253485612" ref="thank-you"/>
+  </folder>
+  <file name="index.html" crc="210268436" mt="1444830012962" redirect="true"/>
+  <file name="thank-you.html" crc="4078296363" mt="1444830014659" redirect="true"/>
+</manifest>
